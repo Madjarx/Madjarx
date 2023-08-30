@@ -1,4 +1,4 @@
-madjar#4755 - discord tag
+madjarx - discord tag
 
 https://www.npmjs.com/~madjarx
 
