@@ -2,6 +2,9 @@ madjarx - discord tag
 
 https://www.npmjs.com/~madjarx
 
+My recent contribution to the NodeRED community:
+https://discourse.nodered.org/t/web-scraping-crawling-html-content-analysis-based-on-keywords-images-text/84669/1
+
 #### A short notice of me
 
 I believe that the future is in the hands of people that understand Human as an individual, as part of a group / tribe / greater entity and as a part of society.
