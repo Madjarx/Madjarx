@@ -12,3 +12,5 @@ I believe that the future is in the hands of people that understand Human as an 
 **idea** (philosophy) -> **putting it on a paper** (math / sociology / economics / psychology) -> **building it** (programming!!)  
 
 When building, I think more abstract. Guided by the purpose, I tako into the account the human factor / nature of interest concern / context of everyday life etc.
+
+We're unaware that in our lives we're driven by subconscious things.
