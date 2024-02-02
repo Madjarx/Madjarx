@@ -1,3 +1,5 @@
+I write clean and good code! Endorsed by many!! :D
+
 madjarx - discord tag
 
 https://www.npmjs.com/~madjarx
