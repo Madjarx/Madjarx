@@ -1,5 +1,13 @@
 
+
+@madjarx - telegram handle
 madjarx - discord tag
+
+#### Right now working on 
+Address space expansion on Ethereum & EVM based projects
+
+Working on EVMOne
+
 
 https://www.npmjs.com/~madjarx
 
