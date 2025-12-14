@@ -3,10 +3,10 @@
 @madjarx - telegram handle
 madjarx - discord tag
 
-#### Right now working on 
-Address space expansion on Ethereum & EVM based projects
 
-Working on EVMOne
+I used to make model-planes, it was kinda boring cus all of the pieces were pre-assembled you just had to glue them together. Fun part was adding the "story / identity" for the model :
+- coloring, adding weather details
+- adding stuff on your own that didnt come in the box
 
 
 https://www.npmjs.com/~madjarx
